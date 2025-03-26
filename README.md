@@ -1,4 +1,4 @@
-# Teacher and Course Management System
+# Teacher and Course Management System (java)
 
 ## Project Overview
 
